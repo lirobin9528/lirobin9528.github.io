@@ -12,7 +12,7 @@
 
 6. The homepage should same as the example site;
 
-7. The Login and register should same as the example site, **the registeration code should have 120 seconds to enter it**;
+7. The Login and register should be like this, **the registeration code should have 120 seconds to enter it**;
 ![image](./1.jpg)
 ![image](./2.jpg)
 
