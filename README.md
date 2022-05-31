@@ -12,7 +12,8 @@
 6. The homepage should same as the example site;
 
 7. The Login and register should same as the example site, **the registeration code should have 120 seconds to enter it**;
-   ![image](./1.jpg) ![image](./2.jpg)
+   ![image](./1.jpg)
+   ![image](./2.jpg)
 
 8. The dashboard of User Center(UC) should be like this;
    ![image](./3.jpg)
