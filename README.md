@@ -33,7 +33,7 @@
 13. Should insert anniversary promotion after memebership rewards,  it will just pop up when you click it and will not cover the whole screen like membership rewards;
 ![image](./7_1.jpg)
 
-14. The Downline in UC should be like this **should match the platform theme, background shoudl black**;
+14. The Downline in UC should be like this **should match the platform theme, background should black**;
 ![image](./8.jpg)
 
 15. The KYC in UC should embed in like before;
