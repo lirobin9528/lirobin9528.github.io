@@ -1,4 +1,5 @@
-# Requirments
+# 3rd Platform document
+## Requirments
 1. domain: un1vest.com;
 
 2. Based on the 2nd platform,  example site: https://theunivest.com;
@@ -35,5 +36,5 @@
 
 14. The KYC in UC should embed in like before;
 15. The footer of UC should contain many famous platforms and auto-scroll going to the left(just like 13's footer);
-# Suggestion
-# Schedule
+## Suggestion
+## Schedule
