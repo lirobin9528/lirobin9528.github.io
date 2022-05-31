@@ -31,7 +31,7 @@
 ![image](./7.jpg)
 
 13. Should insert anniversary promotion after memebership rewards,  it will just pop up when you click it and will not cover the whole screen like membership rewards;
-![image](./71.jpg)
+![image](./7_1.jpg)
 
 14. The Downline in UC should be like this **should match the platform theme, background shoudl black**;
 ![image](./8.jpg)
